@@ -1,0 +1,10 @@
+17, 24, 0, 777
+ejemplo@correo.com, usuario@mail.org
+25/12/2023, 01/01/2020
++52-555-1234567, 01-800-5550000
+
+b = 7
+
+a = 32.4 *(-8.6 - b) /   6.1E-8
+
+d = a ^ b // Esto es un comentario
